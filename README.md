@@ -1,2 +1,3 @@
 # Python_Playaround
-Coding with Son
+Collection of my Son's coding script
+
